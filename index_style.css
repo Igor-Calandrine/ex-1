@@ -221,10 +221,11 @@ aside div a::after {
 
 aside ul {
     list-style-type: "\2705";
-    columns: 2;
     margin-left: 15%;
     margin-top: 25px;
     margin-bottom: 25px;
+    columns: 2;
+   
 }
 
 
