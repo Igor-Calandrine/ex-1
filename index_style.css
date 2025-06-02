@@ -221,23 +221,13 @@ aside div a::after {
 
 aside ul {
     list-style-type: "\2705";
+    columns: 2;
+    margin-left: 15%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
 }
 
-.ul_0 {
-    display: flex;
-    text-align: left;
-    min-height: 140px;
-    margin-top: 30px;
-}
-
-.ul_1 {
-    max-width: 50%;
-    margin-left: 0%;
-}
-
-.ul_2 {
-    max-width: 50%;
-}
 
 footer {
     text-align: center;
