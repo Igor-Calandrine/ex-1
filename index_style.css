@@ -47,9 +47,10 @@ header {
     color: white;
     font-family: var(--font-destaque);
     min-width: 280px;
-    max-width: 800px;
+    max-width: 850px;
     margin: auto;
-    padding: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     
 }
 
@@ -69,13 +70,12 @@ nav {
     font-family: var(--font-principal);
     background-color: #3A8906;
     text-align: left;
-    font-size: 110%;
+    font-size: 100%;
     font-weight: 650;
     min-width: 220px;
     max-width: 850px;
     margin: auto;
     display: flex;
-    gap: 5px;
 }
 
 nav a {
